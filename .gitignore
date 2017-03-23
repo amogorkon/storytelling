@@ -1,3 +1,4 @@
 box/*
 DEV*
 pytest.ini
+.ipynb_checkpoints/*
